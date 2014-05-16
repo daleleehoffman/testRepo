@@ -23,6 +23,8 @@ namespace GitHubTest
         public MainWindow()
         {
             InitializeComponent();
+            bool booValue = true;
+            if (booValue) return;
         }
     }
 }
