@@ -24,7 +24,6 @@ namespace GitHubTest
         {
             InitializeComponent();
             bool booValue = true;
-            booValue = false;
             if (booValue) return;
         }
     }
